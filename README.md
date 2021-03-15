@@ -1,5 +1,5 @@
 # M2_AIC_project
-In this project, we wreated a challenge to classify images of different categories of plankton. 
+In this project, we wreated a challenge to classify images of different categories of plankton. ( https://codalab.lri.fr/competitions/623 )
 
 ## References and credits:
 
